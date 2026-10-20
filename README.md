@@ -102,22 +102,7 @@ npm run build
 
 ---
 
-## 📤 How to Push to GitHub
+## 📤 Repository Link
 
-To submit your GitHub repository link:
+- **GitHub Repository:** [https://github.com/Jeswin44/employee-dashboard](https://github.com/Jeswin44/employee-dashboard)
 
-1. **Create a new repository** on [GitHub](https://github.com/new) (e.g. `employee-dashboard`).
-2. Run the following commands in your terminal:
-
-```bash
-# Add your GitHub repository remote URL
-git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>.git
-
-# Ensure current branch is main
-git branch -M main
-
-# Push the code to GitHub
-git push -u origin main
-```
-
-3. Copy the URL of your new repository (e.g. `https://github.com/jeswin/employee-dashboard`) for submission!
